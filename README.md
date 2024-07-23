@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamstermythe</h1>
 <h3 align="center">A</h3>
 
-- 🔭 I’m currently working on **a pvp online game.**
-
-- 👯 I’m looking to collaborate on **citoyen.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/hamstermythe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamstermythe" height="30" width="40" /></a>
